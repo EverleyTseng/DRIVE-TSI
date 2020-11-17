@@ -8,4 +8,4 @@ This is a open-source road time-spatial image dataset with vehicle annotations. 
 - GRAM: http://agamenon.tsc.uah.es/Personales/rlopez/data/rtm/
 - NiTra: http://tdam-bjkl.bjtu.edu.cn/qzou/index.html
 
-For each time-spatial image in this dataset, there is a corresponding `.txt` annotation file. The vehicles are annotated in the form of bounding boxes [$x_1$, $y_1$, $x_2$, $y_2$].
+For each time-spatial image in this dataset, there is a corresponding `.txt` annotation file. The vehicles are annotated in the form of bounding boxes `[x1, y1, x2, y2]`.
