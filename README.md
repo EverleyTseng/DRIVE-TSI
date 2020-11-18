@@ -1,5 +1,5 @@
 # DRIVE-TSI
-Diverse Road scene and Illuminance with VEhicles - Time-Spatial Images (DRIVE-TSI)
+Diverse Road scene and Illuminance with VEhicles Time-Spatial Images (DRIVE-TSI)
 
 ## Introduction
 This is a open-source road time-spatial image dataset with vehicle annotations. Time-spatial images are converted from videos collected from the below datasets:
